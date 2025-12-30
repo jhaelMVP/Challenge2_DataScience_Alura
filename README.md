@@ -2,7 +2,7 @@
 challenge del grupo de data science en alura latam
 🚀 Challenge Telecom X: Análisis de Churn de Clientes
 
-Estado del Proyecto: Finalizado ✅
+Estado del Proyecto: Trabajando
 
 Este proyecto tiene como objetivo analizar la evasión de clientes (churn) en una empresa de telecomunicaciones, identificando los principales factores que influyen en la pérdida de usuarios. A través de Python y técnicas de Análisis Exploratorio de Datos (EDA), se concluyó que la estabilidad contractual y los costos mensuales son los principales detonantes del abandono del servicio.
 
